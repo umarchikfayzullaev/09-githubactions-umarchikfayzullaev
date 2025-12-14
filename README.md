@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/y6deBJUu)
 # GitHub Skills - _Github Actions, Testing, Publishing, AI in Actions_
 
 **SPM 2025 Assignment N9 Template**
@@ -29,7 +30,7 @@ This assignment introduces you how to use **_Github Actions_**, **_Testing with 
 
 _Here you should put the URL of your final repository after finishing the given tutorial_
 
-1. Hello GitHub Actions: _REPO LINK 1_
+1. Hello GitHub Actions: https://github.com/umarchikfayzullaev/skills-hello-github-actions
 2. Test with Actions: _REPO LINK 1_
 3. AI in Actions: _REPO LINK 1_
 4. Publish to GitHub Packages: _REPO LINK 1_
