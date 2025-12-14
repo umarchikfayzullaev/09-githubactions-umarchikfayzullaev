@@ -31,7 +31,7 @@ _Here you should put the URL of your final repository after finishing the given 
 
 1. Hello GitHub Actions: _REPO LINK 1_
 2. Test with Actions: _REPO LINK 1_
-3. AI in Actions: _REPO LINK 1_
+3. AI in Actions: https://github.com/umarchikfayzullaev/skills-ai-in-actions
 4. Publish to GitHub Packages: _REPO LINK 1_
 
 
